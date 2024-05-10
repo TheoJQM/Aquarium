@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aquarium</string>
+
+    <string name="koi_carp">Koi Carp</string>
+    <string name="spiny_dogfish">Spiny Dogfish</string>
+    <string name="kaluga">Kaluga</string>
+
+    <string name="image_koi_carp">https://ucarecdn.com/42045846-b968-4a88-81ec-df73bec4fcb7/</string>
+    <string name="image_spiny_dogfish">https://ucarecdn.com/5aa10eb3-fc49-4304-9057-adf1d29a9b4c/</string>
+    <string name="image_kaluga">https://ucarecdn.com/c5fd39b9-7690-4616-b7dc-d3f8da883146/</string>
+
+
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
